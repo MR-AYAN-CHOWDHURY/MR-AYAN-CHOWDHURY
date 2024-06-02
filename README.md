@@ -4,7 +4,7 @@
 
 <p align="center">  
   <a href="https://github.com/MR-AYAN-CHOWDHURY">
-    <img alt="MR.AYAN" height="300" src="https://avatars.githubusercontent.com/u/140977479?v=4">
+    <img alt="MR.AYAN" height="300" src="https://i.imgur.com/3pmZSJV.jpeg">
   </a>
 </p>
 <p align="center">
